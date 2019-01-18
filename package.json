@@ -1,0 +1,42 @@
+{
+  "name": "ng-colorpicker",
+  "version": "1.0.0",
+  "description": "Angular Color Pickert Module",
+  "main": "index.ts",
+  "scripts": {
+    "build": "ng-packagr",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serrg1994/ng-colorpicker.git"
+  },
+  "keywords": [
+    "angular",
+    "disqus"
+  ],
+  "author": "Novoseletskiy Serhiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serrg1994/ng-colorpicker/issues"
+  },
+  "homepage": "https://github.com/serrg1994/ng-disqus#readme",
+  "dependencies": {
+    "@angular/core": "7.2.1",
+    "@angular/common": "7.2.1",
+    "rxjs": "6.3.3",
+    "@angular/forms": "7.2.1"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^7.2.1",
+    "@angular/compiler-cli": "^7.2.1",
+    "@types/jquery": "^3.3.29",
+    "ng-packagr": "^4.6.0",
+    "tsickle": "^0.34.0",
+    "typescript": "^3.2.4"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=5.0.0",
+    "@angular/core": ">=5.0.0"
+  }
+}
